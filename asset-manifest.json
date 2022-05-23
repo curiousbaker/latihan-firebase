@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/latihan-firebase/static/css/main.073c9b0a.css",
+    "main.js": "/latihan-firebase/static/js/main.9ad895ce.js",
+    "static/js/787.ad3f1269.chunk.js": "/latihan-firebase/static/js/787.ad3f1269.chunk.js",
+    "static/media/logo.svg": "/latihan-firebase/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/latihan-firebase/index.html",
+    "main.073c9b0a.css.map": "/latihan-firebase/static/css/main.073c9b0a.css.map",
+    "main.9ad895ce.js.map": "/latihan-firebase/static/js/main.9ad895ce.js.map",
+    "787.ad3f1269.chunk.js.map": "/latihan-firebase/static/js/787.ad3f1269.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9ad895ce.js"
+  ]
+}
